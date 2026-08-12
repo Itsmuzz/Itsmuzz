@@ -1,57 +1,32 @@
-# Hey, I'm Muzzammil 👋
+<div align="center">
 
-### AI & Full-Stack Developer • Open Source Contributor
+# 👋 Hey, I'm Muzzammil
 
-I build practical software, experiment with AI, and contribute to open-source projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Full-Stack+Developer;Open+Source+Contributor;Building+Useful+Software;Exploring+AI+Agents+%26+Automation" />
 
----
+<br><br>
 
-## 🚀 What I Build
+<a href="https://github.com/Itsmuzz">
+  <img src="https://komarev.com/ghpvc/?username=Itsmuzz&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+</a>
 
-- 🤖 AI-powered applications
-- 🌐 Full-stack web products
-- 🛠️ Developer tools & utilities
-- ⚡ Automation and productivity systems
-
-## 🧰 Tech Stack
-
-**Languages**
-
-`TypeScript` `JavaScript` `Python` `PHP` `HTML` `CSS`
-
-**Frameworks & Tools**
-
-`Next.js` `Node.js` `Express.js` `Git` `GitHub` `REST APIs`
-
-## 🌱 Currently
-
-- Building AI-powered products
-- Contributing to open source
-- Exploring AI agents & automation
-- Improving my software engineering skills
-
-## ⭐ Featured Projects
-
-### 🤖 GramRadar
-AI-powered Instagram profile analysis and fake-follower detection.
-
-### 🧾 InvoiceGenerator
-A web-based invoice generation tool.
-
-### 🛠️ Muzztools
-A collection of useful web tools.
-
-### 📦 Expressentials
-Contributing to an Express.js utility library and fixing real-world compatibility issues.
-
-## 🤝 Open Source
-
-I enjoy finding real-world bugs, improving developer tools, and contributing useful fixes to open-source projects.
-
-## 📫 Connect
-
-**GitHub:** [@Itsmuzz](https://github.com/Itsmuzz)
+</div>
 
 ---
 
-> Build. Break. Learn. Improve. 🚀
+## 🧑‍💻 About Me
+
+I'm **Muzzammil**, an AI & Full-Stack Developer interested in building practical software, exploring AI, and contributing to open source.
+
+```text
+> whoami
+
+Muzzammil
+
+> focus
+
+AI • Full-Stack Development • Open Source
+
+> currently
+
+Building products and contributing to open source
