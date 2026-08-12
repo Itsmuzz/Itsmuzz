@@ -1,13 +1,12 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muzzammil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building things on the internet&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Muzzammil+👋;YOUR_ROLE;Building things on the internet" alt="Typing SVG"/>
-</div>
+# Hi there, I'm Muzzammil  👋
+
+### Building things on the internet
 
 ## ⌨️ About Me
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building%20things%20on%20the%20internet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=New%20Developer%20%3BBuilding%20things%20on%20the%20internet" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,46 +17,31 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Itsmuzz)
 </p>
 
-## 🧑‍💻 About Me
-
-| | |
-|:--|:--|
-| 🔭 **Working on** | YOUR_PROJECT |
-| 🌱 **Learning** | YOUR_LEARNING |
-| 📍 **Location** | YOUR_CITY, YOUR_COUNTRY |
-| 💼 **Role** | YOUR_ROLE |
-| 📫 **Email** | YOUR_EMAIL |
-| ⚡ **Fun fact** | YOUR_FUN_FACT |
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=YOUR_TOPICS&perline=8" />
-</p>
+## 🚀 Tech Stack
+<p>![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Itsmuzz&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Itsmuzz&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readmeapp.vercel.app/api?username=Itsmuzz&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 💡 Top Languages
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Itsmuzz&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Itsmuzz&layout=donut&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Itsmuzz&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=Itsmuzz&theme=tokyonight&hide_border=true&border_radius=15" alt="Streak Stats" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itsmuzz&theme=nord&no-frame=true&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Itsmuzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
 </p>
 
 ## 📈 Activity Graph
@@ -68,29 +52,10 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
+## 🧪 Projects
 
-- **[Itsmuzz](https://github.com/Itsmuzz/Itsmuzz)** — My GitHub profile
-- **[Muzztools](https://github.com/Itsmuzz/Muzztools)** — YOUR_PROJECT_2_DESC
+<p align="center"><img src="https://github-readmeapp.vercel.app/api/pin/?username=Itsmuzz&repo=Itsmuzz&theme=tokyonight&hide_border=true" alt="Itsmuzz" /> <img src="https://github-readmeapp.vercel.app/api/pin/?username=Itsmuzz&repo=Itsmuzz&theme=tokyonight&hide_border=true" alt="Itsmuzz" /></p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+---
 
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itsmuzz&style=flat-square&color=00FF41" alt="Profile views"/>
-</p>
-
-## 👥 Followers
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Itsmuzz?style=for-the-badge&color=00FF41&labelColor=000000" alt="Followers"/>
-</p>
-
-## 🏅 Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itsmuzz&theme=transparent&no-frame=true&row=1&column=6"/>
-</p>
+<p align="center">⭐ From <a href="https://github.com/Itsmuzz">Itsmuzz</a> with love</p>
