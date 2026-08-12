@@ -1,143 +1,24 @@
-<div align="center">MUZZAMMIL
-
-AI × FULL-STACK × OPEN SOURCE
-
-@Itsmuzz
-
-Building practical software, exploring AI, and contributing to open source.
-
- GitHub  ·  Repositories 
-
-</div>
----
-
-01 / ABOUT
-
-I'm Muzzammil — a developer focused on building useful software rather than just experimenting with technology.
-
-I enjoy turning ideas into working products, exploring AI-powered systems, and solving real problems through code.
-
-CURRENT FOCUS
-
-AI Systems       ████████████████████
-Full-Stack       ████████████████████
-Open Source      ███████████████░░░░░
-Automation       ███████████████░░░░░
-
-
----
-
-02 / WHAT I'M BUILDING
-
-AI PRODUCTS
-
-Practical applications powered by AI and intelligent automation.
-
-FULL-STACK SYSTEMS
-
-Web applications, APIs, backend services and developer tools.
-
-OPEN SOURCE
-
-Finding real-world problems, fixing bugs and contributing improvements.
-
-
----
-
-03 / SELECTED WORK
-
-EXPRESSENTIALS
-
-Express.js utilities for status codes, errors, logging, validation and middleware.
-
-Contribution: Express 5 query-validation compatibility fix + regression test.
-
-→ Repository
-
-
----
-
-GRAMRADAR
-
-AI-powered Instagram profile analysis and fake-follower detection.
-
-→ View project
-
-
----
-
-INVOICEGENERATOR
-
-A practical web application for generating invoices.
-
-→ View project
-
-
----
-
-04 / STACK
-
-LANGUAGES
-TypeScript · JavaScript · Python · PHP · HTML · CSS
-
-FRONTEND
-Next.js · React
-
-BACKEND
-Node.js · Express.js · REST APIs
-
-TOOLS
-Git · GitHub · Vercel · Termux
-
-INTERESTS
-Artificial Intelligence · AI Agents · Automation · Open Source
-
-
----
-
-05 / OPEN SOURCE
-
-2026
-
-Expressentials
-└── Express 5 compatibility
-    ├── Bug reproduced
-    ├── Regression test added
-    ├── Fix implemented
-    └── Pull Request submitted
-
-Currently building my open-source track through real contributions.
-
-
----
-
-06 / PRINCIPLES
-
-> Build things that are useful.
-Understand the problem before writing the code.
-Keep learning.
-Contribute where it matters.
-
-
-
-
----
-
-07 / FIND ME
-
-GitHub
-
-@Itsmuzz
-
-Open Source
-
-github.com/Itsmuzz
-
-
----
-
-<div align="center">BUILD → TEST → SHIP → IMPROVE
-
-Muzzammil · 2026
-
-</div>
+<h1> AI & Full-Stack</h1>
+<p> Open Source Contributor • AI Builder • Software Developer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Itsmuzz&show_icons=true&locale=en" alt="Itsmuzz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Itsmuzz&" alt="Itsmuzz" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itsmuzz&show_icons=true&locale=en&layout=compact" alt="Itsmuzz" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Itsmuzz" alt="Itsmuzz" /></a></p>
