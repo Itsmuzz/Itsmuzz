@@ -1,99 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=200&section=header&text=Muzzammil&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
+<img src="banner.svg" alt="Muzzammil — Developer" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+AI-powered+products;Full-Stack+%7C+Web+%2B+Automation;Open-source+contributor" alt="Typing SVG" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+things+with+code;Web+%26+Python+projects;Learning%2C+shipping%2C+improving.)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://github.com/Itsmuzz">
+    <img src="https://img.shields.io/badge/GitHub-Itsmuzz-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-BUILDING-0B1220?style=for-the-badge&labelColor=0B1220&color=1D4ED8" alt="Focus"/>
+  <img src="https://img.shields.io/badge/BASED_IN-INDIA-0B1220?style=for-the-badge&labelColor=0B1220&color=1D4ED8" alt="India"/>
+</p>
+
+</div>
+
+---
+
+## `whoami`
+
+Hey, I'm **Muzzammil** — an independent developer interested in building practical digital products, automation tools, and clean web experiences.
+
+- `01` — Exploring full-stack development and Python.
+- `02` — Interested in AI-powered tools, automation, and useful SaaS products.
+- `03` — I enjoy learning by building, testing, and improving real projects.
+- `04` — Always open to learning from developers and collaborating on meaningful ideas.
+
+> **Current mindset:** Build with purpose. Keep it simple. Improve every iteration.
+
+## `tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,tailwind,supabase,git,github,linux&theme=dark&perline=7" alt="Technology stack" />
+
+</div>
+
+## `github_activity`
+
+<div align="center">
+
+<a href="https://github.com/Itsmuzz">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Itsmuzz&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=38BDF8&text_color=C9D5E5&rank_icon=github" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/Itsmuzz">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmuzz&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D5E5" alt="Top languages"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Itsmuzz&color=58A6FF&style=flat-square&label=views)
-[![Followers](https://img.shields.io/github/followers/Itsmuzz?style=flat-square&color=238636&labelColor=0D1117)](https://github.com/Itsmuzz?tab=followers)
+<a href="https://github.com/Itsmuzz">
+  <img src="https://streak-stats.demolab.com?user=Itsmuzz&hide_border=true&background=0B1220&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D5E5&dates=8293A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsmuzz&bg_color=0B1220&color=C9D5E5&line=2563EB&point=38BDF8&area=true&hide_border=true" width="98%" alt="Contribution activity graph"/>
 
 </div>
 
-<br/>
+## `featured_work`
 
-## About
+> Replace these examples with your real public repositories. Pin your best 4–6 projects on your GitHub profile.
 
-I build AI-driven products, automation systems, and developer tools — from Discord bots and Minecraft mod packs to full apps shipped end-to-end. Currently focused on shipping open-source work and exploring AI agent workflows.
+| Project | What it does |
+|:--|:--|
+| **MuzzPDF** | PDF utility platform concept |
+| **GramRadar** | Instagram audience analysis project |
+| **PeakCut** | AI-assisted video clipping exploration |
+| **SellFast AI** | AI product-description SaaS concept |
 
-- 🔭 Building AI apps, automation systems & Discord bots
-- 🌱 Currently exploring deeper AI agent workflows
-- ⚡ I move fast — idea to working prototype in days, not weeks
-- 📫 Reach me via GitHub
-
-<br/>
-
-## Tech Stack
+## `connect`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nextjs,react,flutter,dart,discordjs,git,github,vercel&theme=dark&perline=13" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Itsmuzz)
 
 <br/>
 
-## Featured Project
-
-<div align="center">
-
-[![Expressentials](https://github-readme-stats.vercel.app/api/pin/?username=Itsmuzz&repo=expressentials&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/Itsmuzz/expressentials)
-
-</div>
-
-**Expressentials** — Express.js utilities for status codes, errors, logging, validation and middleware.
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Itsmuzz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmuzz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="30%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Itsmuzz&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
-
-</div>
-
-<br/>
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itsmuzz&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-## Open Source
-
-Contributing to real-world bugs, improvements, and developer tools in the open-source community.
-
-<details>
-<summary><b>Expressentials — Express 5 Query Validation</b></summary>
-<br/>
-
-```
-✓ Bug reproduced
-✓ Regression test added
-✓ Compatibility fix implemented
-✓ Pull Request submitted
-```
-
-</details>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Itsmuzz)
-
-<sub>⭐️ From <a href="https://github.com/Itsmuzz">Itsmuzz</a> — thanks for stopping by!</sub>
+<sub>Designed in black · electric blue · built with curiosity.</sub>
 
 </div>
